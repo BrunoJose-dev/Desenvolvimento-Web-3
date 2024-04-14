@@ -6,7 +6,7 @@ Este é um projeto criado com React e Vite. Ele traz em sua página principal um
 
 
 # Página Inicial:
-![Página Inicial](https://github.com/BrunoJose-dev/Desenvolvimento-Web-3/blob/main/movies_lib/src/assets/info_filme.png)
+![Página Inicial](https://github.com/BrunoJose-dev/Desenvolvimento-Web-3/blob/main/movies_lib/src/assets/tela_inicial.png)
 
 
 # Resulatados da pesquisa:
