@@ -1,5 +1,7 @@
 # Info Movies
 
+https://info-movieweb.netlify.app/
+
 Este é um projeto criado com React e Vite. Ele traz em sua página principal uma listagem de filmes com as melhores notas e uma barra de pesquisa para o usuário poder procurar os filmes que ele tem interesse. Além da busca, ele também mostra as informações completas sobre o filme.
 
 ## Capturas de Tela
