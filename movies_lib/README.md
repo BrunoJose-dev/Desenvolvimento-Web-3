@@ -4,9 +4,9 @@ Este é um projeto criado com React e Vite. Ele traz em sua página principal um
 
 ## Capturas de Tela
 
-![Página Inicial](screenshots/pagina_inicial.png)
-![Barra de Pesquisa](screenshots/barra_pesquisa.png)
-![Informações do Filme](screenshots/informacoes_filme.png)
+![Página Inicial](https://github.com/BrunoJose-dev/Desenvolvimento-Web-3/blob/main/movies_lib/src/assets/info_filme.png)
+![Barra de Pesquisa](https://github.com/BrunoJose-dev/Desenvolvimento-Web-3/blob/main/movies_lib/src/assets/result_pesquisa.png)
+![Informações do Filme](https://github.com/BrunoJose-dev/Desenvolvimento-Web-3/blob/main/movies_lib/src/assets/info_filme.png)
 
 ## Tecnologias Utilizadas
 
@@ -24,20 +24,20 @@ Para instalar as dependências e executar o projeto localmente, siga estas etapa
    ```bash
    git clone https://github.com/BrunoJose-dev/Desenvolvimento-Web-3
 
-# instalar dependências
+2. Instalar dependências
 Para instalar as dependências, execute o seguinte comando:
 npm create vite@latest
 npm isntall
 
-# entrar na pasta do projeto 
+3. Entrar na pasta do projeto 
 cd movies_lib
 npm install react-router-dom react-icons
 
-# clonar repositório
+4. Clonar repositório
 git clone https://github.com/BrunoJose-dev/Desenvolvimento-Web-3
 
 Para iniciar o servidor localmente, execute:
-# executar o projeto
+5. Executar o projeto
 npm run dev
 
 
